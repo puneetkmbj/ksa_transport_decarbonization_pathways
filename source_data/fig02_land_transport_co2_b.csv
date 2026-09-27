@@ -1,0 +1,14 @@
+"Units","sector","variable","year","id","start","end","value","size","label"
+"MtCO2","2060","No Policy",2060,1,0,287.977,287.977,287.977,"No Policy
+288"
+"MtCO2","Land Transport","Fuel Efficiency and EPR",2060,2,287.977,217.164,70.8136,70.8136,"Fuel Efficiency
+and EPR
+-71"
+"MtCO2","Land Transport","Public Transport",2060,3,217.164,132.831,84.3332,84.3332,"Public Transport
+-84"
+"MtCO2","Land Transport","BEVs",2060,4,132.831,51.9873,80.8433,80.8433,"BEVs
+-81"
+"MtCO2","Land Transport","FCEVs",2060,5,51.9873,36.3099,15.6774,15.6774,"FCEVs
+-16"
+"MtCO2","Land Transport","Residual Emissions",2060,6,36.3099,0,36.3099,36.3099,"Residual Emissions
+36"

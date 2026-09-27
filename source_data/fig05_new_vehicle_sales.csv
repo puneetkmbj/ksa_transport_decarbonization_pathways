@@ -1,0 +1,161 @@
+"scenario","vehicle","technology","year","value","share"
+"Ambition","Bus","BEV",2030,12445.5,9.54809
+"Ambition","Bus","BEV",2040,23894.8,13.8971
+"Ambition","Bus","BEV",2050,38795.4,17.6975
+"Ambition","Bus","BEV",2060,48602.2,18.3564
+"Ambition","Bus","FCEV",2030,1805.1,1.38486
+"Ambition","Bus","FCEV",2040,8902.27,5.17752
+"Ambition","Bus","FCEV",2050,28029.8,12.7865
+"Ambition","Bus","FCEV",2060,35233.4,13.3072
+"Ambition","Bus","ICE",2030,90584.1,69.4954
+"Ambition","Bus","ICE",2040,107771,62.6791
+"Ambition","Bus","ICE",2050,117191,53.4597
+"Ambition","Bus","ICE",2060,139107,52.5389
+"Ambition","Bus","ICE Hybrids",2030,25510.8,19.5717
+"Ambition","Bus","ICE Hybrids",2040,31372.7,18.2462
+"Ambition","Bus","ICE Hybrids",2050,35197.7,16.0563
+"Ambition","Bus","ICE Hybrids",2060,41827.1,15.7975
+"Ambition","HDT","BEV",2030,0.0719285,3.33456e-05
+"Ambition","HDT","BEV",2040,392.392,0.15796
+"Ambition","HDT","BEV",2050,34396.8,10.8938
+"Ambition","HDT","BEV",2060,66275.6,19.1454
+"Ambition","HDT","FCEV",2030,0.418288,0.000193916
+"Ambition","HDT","FCEV",2040,46.9645,0.0189059
+"Ambition","HDT","FCEV",2050,1252.29,0.396612
+"Ambition","HDT","FCEV",2060,2484.35,0.717666
+"Ambition","HDT","ICE",2030,209534,97.1386
+"Ambition","HDT","ICE",2040,237850,95.7481
+"Ambition","HDT","ICE",2050,264442,83.7512
+"Ambition","HDT","ICE",2060,261138,75.4362
+"Ambition","HDT","ICE Hybrids",2030,6171.62,2.86112
+"Ambition","HDT","ICE Hybrids",2040,10122.8,4.075
+"Ambition","HDT","ICE Hybrids",2050,15656.1,4.95843
+"Ambition","HDT","ICE Hybrids",2060,16272.7,4.70077
+"Ambition","LDT","BEV",2030,2909.63,7.61632
+"Ambition","LDT","BEV",2040,5199.94,11.7302
+"Ambition","LDT","BEV",2050,6770.77,11.7803
+"Ambition","LDT","BEV",2060,7514.21,11.9954
+"Ambition","LDT","FCEV",2030,249.809,0.653906
+"Ambition","LDT","FCEV",2040,903.849,2.03893
+"Ambition","LDT","FCEV",2050,1471.55,2.56032
+"Ambition","LDT","FCEV",2060,1916.59,3.05957
+"Ambition","LDT","ICE",2030,30014.5,78.5667
+"Ambition","LDT","ICE",2040,25395.4,57.2878
+"Ambition","LDT","ICE",2050,26810.7,46.6474
+"Ambition","LDT","ICE",2060,24418.2,38.9802
+"Ambition","LDT","ICE Hybrids",2030,5028.63,13.1631
+"Ambition","LDT","ICE Hybrids",2040,12830.3,28.943
+"Ambition","LDT","ICE Hybrids",2050,22422.2,39.0119
+"Ambition","LDT","ICE Hybrids",2060,28793.5,45.9648
+"Ambition","LDVs","BEV",2030,61789.5,25.5251
+"Ambition","LDVs","BEV",2040,85556,33.2157
+"Ambition","LDVs","BEV",2050,96924.4,36.9906
+"Ambition","LDVs","BEV",2060,90539,33.5948
+"Ambition","LDVs","FCEV",2030,4117.5,1.70093
+"Ambition","LDVs","FCEV",2040,10593.1,4.1126
+"Ambition","LDVs","FCEV",2050,15377.8,5.86885
+"Ambition","LDVs","FCEV",2060,15375.2,5.70503
+"Ambition","LDVs","ICE",2030,161370,66.6617
+"Ambition","LDVs","ICE",2040,124253,48.2393
+"Ambition","LDVs","ICE",2050,99405.1,37.9374
+"Ambition","LDVs","ICE",2060,95037.9,35.2641
+"Ambition","LDVs","ICE Hybrids",2030,14796.3,6.11229
+"Ambition","LDVs","ICE Hybrids",2040,37174.5,14.4324
+"Ambition","LDVs","ICE Hybrids",2050,50316.8,19.2031
+"Ambition","LDVs","ICE Hybrids",2060,68550.8,25.436
+"Ambition","MDT","BEV",2030,1797.41,3.01481
+"Ambition","MDT","BEV",2040,9680.59,14.0575
+"Ambition","MDT","BEV",2050,14002.7,15.7241
+"Ambition","MDT","BEV",2060,17753.4,18.2972
+"Ambition","MDT","FCEV",2030,195.196,0.327404
+"Ambition","MDT","FCEV",2040,838.26,1.21726
+"Ambition","MDT","FCEV",2050,1732.67,1.94567
+"Ambition","MDT","FCEV",2060,2780.89,2.86607
+"Ambition","MDT","ICE",2030,45893.6,76.9777
+"Ambition","MDT","ICE",2040,44774.8,65.0188
+"Ambition","MDT","ICE",2050,54027.6,60.6693
+"Ambition","MDT","ICE",2060,56000.8,57.7161
+"Ambition","MDT","ICE Hybrids",2030,11733.1,19.68
+"Ambition","MDT","ICE Hybrids",2040,13570.7,19.7064
+"Ambition","MDT","ICE Hybrids",2050,19289.6,21.6609
+"Ambition","MDT","ICE Hybrids",2060,20492.9,21.1206
+"Ambition+","Bus","BEV",2030,14099.9,10.937
+"Ambition+","Bus","BEV",2040,52041.1,29.9644
+"Ambition+","Bus","BEV",2050,82503.1,35.3467
+"Ambition+","Bus","BEV",2060,89582.8,31.3118
+"Ambition+","Bus","FCEV",2030,1192.85,0.925267
+"Ambition+","Bus","FCEV",2040,11208.9,6.45391
+"Ambition+","Bus","FCEV",2050,42955.3,18.4033
+"Ambition+","Bus","FCEV",2060,65346.2,22.8404
+"Ambition+","Bus","ICE",2030,100036,77.5957
+"Ambition+","Bus","ICE",2040,77595.1,44.678
+"Ambition+","Bus","ICE",2050,62446.1,26.7537
+"Ambition+","Bus","ICE",2060,64848,22.6662
+"Ambition+","Bus","ICE Hybrids",2030,13590.8,10.5421
+"Ambition+","Bus","ICE Hybrids",2040,32831.1,18.9036
+"Ambition+","Bus","ICE Hybrids",2050,45506.8,19.4964
+"Ambition+","Bus","ICE Hybrids",2060,66322.5,23.1816
+"Ambition+","HDT","BEV",2030,0.194698,0.000147334
+"Ambition+","HDT","BEV",2040,3504.55,1.63235
+"Ambition+","HDT","BEV",2050,194642,61.91
+"Ambition+","HDT","BEV",2060,252988,77.1914
+"Ambition+","HDT","FCEV",2030,1.42639,0.0010794
+"Ambition+","HDT","FCEV",2040,477.691,0.2225
+"Ambition+","HDT","FCEV",2050,7806.55,2.48304
+"Ambition+","HDT","FCEV",2060,10135.1,3.09241
+"Ambition+","HDT","ICE",2030,129919,98.314
+"Ambition+","HDT","ICE",2040,195636,91.1236
+"Ambition+","HDT","ICE",2050,94703.5,30.1225
+"Ambition+","HDT","ICE",2060,50794.5,15.4984
+"Ambition+","HDT","ICE Hybrids",2030,2226.43,1.68481
+"Ambition+","HDT","ICE Hybrids",2040,15074.8,7.02156
+"Ambition+","HDT","ICE Hybrids",2050,17242.9,5.48447
+"Ambition+","HDT","ICE Hybrids",2060,13823.5,4.21781
+"Ambition+","LDT","BEV",2030,4455.63,16.4939
+"Ambition+","LDT","BEV",2040,20460.9,45.1222
+"Ambition+","LDT","BEV",2050,26164,41.9829
+"Ambition+","LDT","BEV",2060,24138.1,39.9823
+"Ambition+","LDT","FCEV",2030,189.278,0.700671
+"Ambition+","LDT","FCEV",2040,1663.79,3.66914
+"Ambition+","LDT","FCEV",2050,4351.22,6.98199
+"Ambition+","LDT","FCEV",2060,6482.21,10.7371
+"Ambition+","LDT","ICE",2030,18775.7,69.5041
+"Ambition+","LDT","ICE",2040,14674.2,32.3608
+"Ambition+","LDT","ICE",2050,16248,26.0716
+"Ambition+","LDT","ICE",2060,12585.9,20.8473
+"Ambition+","LDT","ICE Hybrids",2030,3593.21,13.3014
+"Ambition+","LDT","ICE Hybrids",2040,8546.65,18.8478
+"Ambition+","LDT","ICE Hybrids",2050,15557.4,24.9635
+"Ambition+","LDT","ICE Hybrids",2060,17165.7,28.4333
+"Ambition+","LDVs","BEV",2030,134454,55.2635
+"Ambition+","LDVs","BEV",2040,203724,76.9762
+"Ambition+","LDVs","BEV",2050,194747,75.82
+"Ambition+","LDVs","BEV",2060,179066,70.3544
+"Ambition+","LDVs","FCEV",2030,3709.27,1.52458
+"Ambition+","LDVs","FCEV",2040,12017.6,4.54081
+"Ambition+","LDVs","FCEV",2050,22916.6,8.922
+"Ambition+","LDVs","FCEV",2060,30942.5,12.1572
+"Ambition+","LDVs","ICE",2030,95486.5,39.2468
+"Ambition+","LDVs","ICE",2040,36959.6,13.965
+"Ambition+","LDVs","ICE",2050,25449.2,9.90803
+"Ambition+","LDVs","ICE",2060,25106.2,9.86414
+"Ambition+","LDVs","ICE Hybrids",2030,9646.94,3.96508
+"Ambition+","LDVs","ICE Hybrids",2040,11957.1,4.51795
+"Ambition+","LDVs","ICE Hybrids",2050,13741.6,5.34993
+"Ambition+","LDVs","ICE Hybrids",2060,19405.2,7.62423
+"Ambition+","MDT","BEV",2030,3630.54,9.27193
+"Ambition+","MDT","BEV",2040,35334,51.6242
+"Ambition+","MDT","BEV",2050,55024.7,57.8954
+"Ambition+","MDT","BEV",2060,49932.9,54.0362
+"Ambition+","MDT","FCEV",2030,327.319,0.83593
+"Ambition+","MDT","FCEV",2040,2381.11,3.47888
+"Ambition+","MDT","FCEV",2050,5184.18,5.45464
+"Ambition+","MDT","FCEV",2060,8171.59,8.8431
+"Ambition+","MDT","ICE",2030,30958.1,79.063
+"Ambition+","MDT","ICE",2040,20283.2,29.6344
+"Ambition+","MDT","ICE",2050,17010.2,17.8976
+"Ambition+","MDT","ICE",2060,13466.1,14.5727
+"Ambition+","MDT","ICE Hybrids",2030,4240.29,10.8292
+"Ambition+","MDT","ICE Hybrids",2040,10446.4,15.2625
+"Ambition+","MDT","ICE Hybrids",2050,17822.5,18.7523
+"Ambition+","MDT","ICE Hybrids",2060,20835.8,22.548
