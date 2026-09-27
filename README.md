@@ -52,25 +52,6 @@ As defined in the paper:
 
 Land transport covers road (two- and three-wheelers, cars, buses, light, medium and heavy trucks) and rail (passenger, high-speed and freight). Aviation and shipping are excluded.
 
-## Data provenance
-
-**Scenario database.** `data/trn_study_24_July.proj` is the run used for the published figures. A later run (17 September 2025) exists but does not reproduce the paper. Its 2060 values differ from the published ones by up to 1.9 MtCO₂ and 4.5 Mboe (e.g. No Policy final energy 688 against the published 684 Mboe; Ambition 121 against 120 MtCO₂).
-
-**External input.** `data/external/trn_waterfall_chart.csv` attributes the 2060 reduction from No Policy to Ambition+ to individual measures (Fig. 2b). The attribution was computed outside the scenario database. Its endpoints are checked against the database each time the figures are built.
-
-**Adjustments in the published figures.** Two presentation adjustments to the model output appear in the paper and are reproduced here. Both are applied in named steps in `R/prep.R`, and the source-data CSVs carry the unadjusted value in a `model_value` column.
-
-1. *No Policy, 2015.* The No Policy run reports slightly higher 2015 land-transport CO₂ and final energy than the other runs (143.1 against 140.1 MtCO₂; 339.7 against 332.6 Mboe). The figures start all scenarios from the common 2015 value.
-2. *Bus, 2030 (Fig. 4b).* The difference in bus service demand relative to Baseline in 2030 (−1.4 billion pkm under Ambition, −2.8 under Ambition+) is shown as zero.
-
-Ambition, Ambition+ and the single-policy variants follow Baseline until 2025 and are plotted from 2025.
-
-**Units.** Final energy is reported in million barrels of oil equivalent (1 EJ = 170.6 Mboe), CO₂ in Mt.
-
-## Differences from the published layout
-
-The text call-outs on the published Fig. 2a (policy milestones along each pathway) are not drawn. Colours and styling follow the published figures but are not pixel-identical.
-
 ## Licence
 
 Code: MIT. The scenario data, the external input, and the generated figures and source data are © King Abdullah Petroleum Studies and Research Center (KAPSARC) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse is permitted with citation of the paper above. Full terms in `LICENSE`.
